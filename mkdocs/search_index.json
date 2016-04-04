@@ -34,6 +34,36 @@
             "location": "/about/#contact-us", 
             "text": "email:  info (at) thenextroom.info", 
             "title": "contact us"
+        }, 
+        {
+            "location": "/stories/", 
+            "text": "Stories\n\n\nThe stories we share with each other are an important way for us to connect and discover meaning in our relationships. There are moments when sharing particular stories will be especially meaningful for somebody approaching the end of their lives, and times where they will want to recall events or express themselves. It's important for us to understand how these stories can enrich our lives, and the lives of others (perhaps even future generations).\n\n\nthoughts? contact us\n\n\nemail:\n info (at) thenextroom.info", 
+            "title": "Stories"
+        }, 
+        {
+            "location": "/stories/#stories", 
+            "text": "The stories we share with each other are an important way for us to connect and discover meaning in our relationships. There are moments when sharing particular stories will be especially meaningful for somebody approaching the end of their lives, and times where they will want to recall events or express themselves. It's important for us to understand how these stories can enrich our lives, and the lives of others (perhaps even future generations).", 
+            "title": "Stories"
+        }, 
+        {
+            "location": "/stories/#thoughts-contact-us", 
+            "text": "email:  info (at) thenextroom.info", 
+            "title": "thoughts? contact us"
+        }, 
+        {
+            "location": "/technology/", 
+            "text": "Technology\n\n\nTechnology is becoming an increasingly important enabler, and - used correctly and respectfully - can help us in practical and creative ways in the present, while also giving us opportunity to cherish some very precious moments well into the future.\n\n\nIn some respects, technology can also be the cause of headaches, heartache, and frustration. An executor might not have access to certain electronic records (which in the past might have been kept in paper files), or a family member might lament the loss of photos on a mobile device or access to a cloud service provider (to briefly name but a few). If addressed early however, these same technologies can make life easier, and unlock huge potential - now and for generations to come. \n\n\nthoughts? contact us\n\n\nemail:\n info (at) thenextroom.info", 
+            "title": "Technology"
+        }, 
+        {
+            "location": "/technology/#technology", 
+            "text": "Technology is becoming an increasingly important enabler, and - used correctly and respectfully - can help us in practical and creative ways in the present, while also giving us opportunity to cherish some very precious moments well into the future.  In some respects, technology can also be the cause of headaches, heartache, and frustration. An executor might not have access to certain electronic records (which in the past might have been kept in paper files), or a family member might lament the loss of photos on a mobile device or access to a cloud service provider (to briefly name but a few). If addressed early however, these same technologies can make life easier, and unlock huge potential - now and for generations to come.", 
+            "title": "Technology"
+        }, 
+        {
+            "location": "/technology/#thoughts-contact-us", 
+            "text": "email:  info (at) thenextroom.info", 
+            "title": "thoughts? contact us"
         }
     ]
 }
